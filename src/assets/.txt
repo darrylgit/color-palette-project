@@ -1,0 +1,5 @@
+social actions icon/counter color - color:'rgba(170, 170, 170, .9)'
+darker icon gray - #757575
+selected icon: #e92a4b, rgba(233, 42, 75, 1)
+slate grey: #84949B, rgba(132, 148, 155, 1)
+djangoBlue: #0096cc, rgba(0, 150, 204, 1)
