@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/color-palette-project/static/css/main.6c5e5f12.chunk.css",
-    "main.js": "/color-palette-project/static/js/main.d8f67d13.chunk.js",
-    "main.js.map": "/color-palette-project/static/js/main.d8f67d13.chunk.js.map",
+    "main.js": "/color-palette-project/static/js/main.2dd86394.chunk.js",
+    "main.js.map": "/color-palette-project/static/js/main.2dd86394.chunk.js.map",
     "runtime~main.js": "/color-palette-project/static/js/runtime~main.86dbde41.js",
     "runtime~main.js.map": "/color-palette-project/static/js/runtime~main.86dbde41.js.map",
     "static/js/2.084862a4.chunk.js": "/color-palette-project/static/js/2.084862a4.chunk.js",
     "static/js/2.084862a4.chunk.js.map": "/color-palette-project/static/js/2.084862a4.chunk.js.map",
     "index.html": "/color-palette-project/index.html",
-    "precache-manifest.f4dc0f5f773a44de37072a028d43ea0b.js": "/color-palette-project/precache-manifest.f4dc0f5f773a44de37072a028d43ea0b.js",
+    "precache-manifest.af6285de8e5aa36bad8c340de3d5ac43.js": "/color-palette-project/precache-manifest.af6285de8e5aa36bad8c340de3d5ac43.js",
     "service-worker.js": "/color-palette-project/service-worker.js",
     "static/css/main.6c5e5f12.chunk.css.map": "/color-palette-project/static/css/main.6c5e5f12.chunk.css.map",
     "static/media/index.css": "/color-palette-project/static/media/WorkSans-Regular.f44235f9.otf"
