@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "684aab10909882af071fb4145604baea",
+    "revision": "8c243ed1000411a654542541633f9121",
     "url": "/color-palette-project/index.html"
   },
   {
-    "revision": "be41b867ddaa6e705814",
+    "revision": "bb623584228375708ec1",
     "url": "/color-palette-project/static/css/main.6c5e5f12.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/color-palette-project/static/js/2.084862a4.chunk.js"
   },
   {
-    "revision": "be41b867ddaa6e705814",
-    "url": "/color-palette-project/static/js/main.02f90b38.chunk.js"
+    "revision": "bb623584228375708ec1",
+    "url": "/color-palette-project/static/js/main.d8f67d13.chunk.js"
   },
   {
     "revision": "7453f069a46313040051",
